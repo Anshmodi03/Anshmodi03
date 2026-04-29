@@ -3,8 +3,8 @@
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Modi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Cloud-Native&descSize=18&descAlignY=60" width="100%"/>
 
-<!-- Profile photo (circular) -->
-<img src="./assets/profile.jpg" width="150" height="150" style="border-radius:50%;border:3px solid #F2CA50;margin-top:-30px" alt="Ansh Modi"/>
+<!-- Profile photo -->
+<img src="./assets/profile.jpg" width="150" alt="Ansh Modi"/>
 
 <br/>
 
